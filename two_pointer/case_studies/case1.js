@@ -1,5 +1,8 @@
+// Problem: remove duplicate in sorted array
+// Time: skip for now
+// Space: skip for now
 
-function removeDuplicateNumberInSortedArray(array){
+function case1(array){
   let left = 0 
   let right = 1
   
@@ -21,4 +24,4 @@ function removeDuplicateNumberInSortedArray(array){
   return array
 }
 
-console.log(removeDuplicateNumberInSortedArray([1,2,3]))
+console.log(case1([1,2,3]))
