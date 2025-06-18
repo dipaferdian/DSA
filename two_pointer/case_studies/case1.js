@@ -1,6 +1,6 @@
 // Problem: remove duplicate in sorted array
-// Time: skip for now
-// Space: skip for now
+// Time: coming soon
+// Space: coming soon
 
 function case1(array){
   let left = 0 
