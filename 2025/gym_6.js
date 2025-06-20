@@ -1,7 +1,7 @@
 /** 
 Type: 
   1. solution to the problem
-     - using hash table, and one pointer
+     - using hash map, and one pointer
   2. 
 */ 
 
