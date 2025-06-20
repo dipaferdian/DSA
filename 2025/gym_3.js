@@ -1,6 +1,7 @@
 /** 
 Type: 
   1. solution to the problem
+     - using two pointer
   2. 
 */ 
 
