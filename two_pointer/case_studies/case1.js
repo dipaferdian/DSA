@@ -1,6 +1,8 @@
-// Problem: remove duplicate in sorted array
-// Time: coming soon
-// Space: coming soon
+/** 
+Type: 
+  1. solution to the problem
+  2. 
+*/ 
 
 function case1(array){
   let left = 0 

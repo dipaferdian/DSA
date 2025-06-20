@@ -1,6 +1,8 @@
-// Problem: Find the Index of the First Occurrence in a String
-// Time: coming soon 
-// Space: coming soon
+/** 
+Type: 
+  1. solution to the problem
+  2. 
+*/ 
 
 function case4(haystack, needle){
   let left = 0

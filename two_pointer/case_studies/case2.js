@@ -1,6 +1,8 @@
-// Problem: remove element from array
-// Time: coming soon
-// Space: coming soon
+/** 
+Type: 
+  1. solution to the problem
+  2. 
+*/ 
 
 function case2(array, target) {
   

@@ -1,6 +1,8 @@
-// Problem: Valid Palindrome
-// Time: coming soon 
-// Space: coming soon
+/** 
+Type: 
+  1. solution to the problem
+  2. 
+*/ 
 
 function case5(s){
   s = s.toLowerCase().replace(/[^a-z0-9]/g, '')

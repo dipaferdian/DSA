@@ -1,6 +1,8 @@
-// Problem: merge sorted array
-// Time: coming soon
-// Space: coming soon
+/** 
+Type: 
+  1. solution to the problem
+  2. 
+*/ 
 
 function case3(nums1, m, nums2, n) {
 
